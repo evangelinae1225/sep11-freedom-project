@@ -1,13 +1,15 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: FireBase
 
-## Project: **X**
+## Project: **Wishing Sim** 
 
 ---
 
-### X/X/XX:
-* Text
+### 10/25/X26:
+* Today I mainly researched the [Firebase Website](https://firebase.google.com/) and also logged in and made an account. 
+    
+* Firebase allows 
 
 ### X/X/XX:
 * Text
