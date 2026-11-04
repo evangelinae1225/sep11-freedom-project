@@ -30,12 +30,23 @@ There are more but these are the general ones.
     * [Github Repo](https://github.com/iamshaunjp/Getting-Started-with-Firebase-9)
 
 Lesson two: Setting up Webpack
-- Will help with running firebase
+- Webpack Will help with running firebase
 - I learned that Node is pre-installed on all github codespaces
 - Here is the github repo where I will tinker with firebase:
     - [repo](https://github.com/evangelinae1225/firebase-tinker1)
 - Installed Webpack, as well It took so long because I last minute realized it would be better to make it in a seperate repository
 - I will start Lesson three soon later today or tomorrow
+
+
+### 11/03/2026
+
+Lesson Three: Setting up firebase
+
+- I created a project on firebase itself and added it to my repo
+- The video was working in Firebase nine, so I had to edit my code when I installed firebase so that it overrides any new versions
+and I had to search up how to change my `package.json` file so that it downloads with zero vulnerabilities 
+- connected front end to back end
+
 
 
 
