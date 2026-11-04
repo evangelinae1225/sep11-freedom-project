@@ -43,8 +43,7 @@ Lesson two: Setting up Webpack
 Lesson Three: Setting up firebase
 
 - I created a project on firebase itself and added it to my repo
-- The video was working in Firebase nine, so I had to edit my code when I installed firebase so that it overrides any new versions
-and I had to search up how to change my `package.json` file so that it downloads with zero vulnerabilities 
+- The video was working in Firebase nine, so I had to edit my code when I installed firebase so that it overrides any new versions and I had to search up how to change my `package.json` file so that it downloads with zero vulnerabilities 
 - connected front end to back end
 
 
