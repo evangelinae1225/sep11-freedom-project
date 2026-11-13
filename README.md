@@ -8,6 +8,8 @@ For my project, I chose to independently study **X** in order to help me make **
 
 ## Links
 
+[Repo with Code](https://github.com/evangelinae1225/sep11-freedom-project-app)
+
 [Product]()
 
 [Presentation]()
