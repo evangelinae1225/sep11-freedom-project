@@ -10,10 +10,10 @@
 
 ## Skills
 
-#### SKill 1
+#### Time management
 
 
-#### Skill 2
+#### How to learn
 
 
 ## Summary 
