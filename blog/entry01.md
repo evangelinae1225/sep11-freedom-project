@@ -17,14 +17,20 @@ At the moment, I am at my first step of the Engineering Design Process. This is 
 
 ## Skills
 
-#### Time management
+### Time management
+
+This year, I have a very demanding schedule. Each class requires for me to do homework for a couple hours every night. So, I needed to reserve a time just for tinkering with my tool for every week I have a learning log. I decided, that every Friday needed, I will learn more about FireBase so that by the time I will need to code my website, I am prepared. I will also coordinate with Annabella so we can both learn how to synchronize  Animate.JS and FireBase. 
 
 
-#### How to learn
+
+### How to learn
+
+Since we aren't learning FireBase in class and I can't use it on my school issued laptop, I have to learn it on my own and with the help of certain classmates. So far, I learned my best way to learn is through step-by-step video tutorials which I found on youtube. The playlist i'm using to learn FireBase is [here](https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) and there is 15 videos that can help me understand the basics! Eventually I will create another code project without a tutorial to practice my abilities. 
 
 
 ## Summary 
 
+In conclusion, I am making a wishing Simulator with my partner that needs Firebase to store data for each user. 
 
 
 
