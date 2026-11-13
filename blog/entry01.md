@@ -12,6 +12,7 @@ So far, I mostly studied the possibilities with Firebase and set it up. Since Fi
 
 ## Engineering Design Process
 
+At the moment, I am at my first step of the Engineering Design Process. This is where I define the problem. There are many wishing simulators that are included in famous gacha games. Most of the time, they are rigged to get players to spend more in-game money to obtain the character they want. So, me and my partner decided to create a wishing Simulator where the games aren't rigged and you actually have a great chance of obtaining the character you want!
 
 
 ## Skills
