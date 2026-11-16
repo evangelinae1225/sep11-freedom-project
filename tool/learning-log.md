@@ -46,6 +46,9 @@ Lesson Three: Setting up firebase
 - The video was working in Firebase nine, so I had to edit my code when I installed firebase so that it overrides any new versions and I had to search up how to change my `package.json` file so that it downloads with zero vulnerabilities 
 - connected front end to back end 
 
+### 11/16/2026 
+- I figured out a way to add a github repository, within a reposiory. I used github submodules! So now it is easier for people to find where I tinker! It is [here](firebase-tinker1/firebase-tinker)
+
 
 
 
