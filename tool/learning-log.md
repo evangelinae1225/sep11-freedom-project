@@ -47,7 +47,7 @@ Lesson Three: Setting up firebase
 - connected front end to back end 
 
 ### 11/16/2026 
-- I figured out a way to add a github repository, within a reposiory. I used github submodules! So now it is easier for people to find where I tinker! It is [here](../tool/firebase-tinker1/)
+- I figured out a way to add a github repository, within a reposiory. I used github submodules! So now it is easier for people to find where I tinker! It is [here](https://github.com/evangelinae1225/firebase-tinker1/tree/e6b07c0bdfca45a2873885a69d66783564ef4b77/firebase-tinker)
 
 
 
